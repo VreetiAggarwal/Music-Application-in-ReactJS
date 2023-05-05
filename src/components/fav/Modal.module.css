@@ -1,0 +1,70 @@
+.modal {
+  display: flex;
+  gap: 2rem;
+  background-color: #0d0d0d;
+  color: rgba(255, 141, 160, 0.973);
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 2;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.single {
+  flex-grow: 1;
+}
+
+.double {
+  flex-grow: 2;
+}
+
+.icon {
+  color: white;
+  width: 50%;
+}
+
+.iconflex {
+  display: flex;
+  gap: 2rem;
+  flex-grow: 3;
+  height: 2.5rem;
+}
+
+.div {
+  margin-top: 0.5rem;
+}
+
+.para {
+  color: white;
+  text-align: left;
+}
+
+.para2 {
+  font-size: 0.8rem;
+  color: white;
+  margin-top: 1rem;
+  text-align: left;
+}
+
+.icon2 {
+  color: white;
+  width: 30%;
+}
+
+.btn {
+  background-color: black;
+  border: none;
+  width: 6rem;
+  height: 1rem;
+  cursor: pointer;
+}
+
+.icon3 {
+  margin-top: 1rem;
+  width: 2rem;
+  color: white;
+}

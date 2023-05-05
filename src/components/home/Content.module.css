@@ -1,0 +1,60 @@
+.h1 {
+  color: rgba(255, 179, 192, 0.973);
+  text-align: left;
+  padding: 5rem 0 0 5rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.playlist {
+  padding: 2rem 1rem;
+}
+
+.item:hover {
+  position: absolute;
+}
+
+.item:hover .icon3 {
+  visibility: visible;
+}
+
+.playlist img {
+  width: 100%;
+  height: 10rem;
+  padding: 0.8rem;
+  border-radius: 10%;
+}
+
+.info {
+  color: rgba(255, 179, 192, 0.973);
+  position: relative;
+  top: -1.5rem;
+}
+
+.artist {
+  font-size: 0.6rem;
+}
+
+.btn {
+  background-color: #0d0d0d;
+  border: none;
+}
+
+.icon3 {
+  visibility: hidden;
+  width: 50%;
+  color: white;
+}
+
+.btn2 {
+  background-color: rgb(201, 76, 76, 0);
+  border: none;
+  position: relative;
+  top: -2rem;
+  right: -2rem;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  cursor: pointer;
+  width: 4rem;
+}

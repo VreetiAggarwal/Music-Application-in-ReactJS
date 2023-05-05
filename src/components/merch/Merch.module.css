@@ -1,0 +1,152 @@
+.blob {
+  width: 35rem;
+  margin-top: 1rem;
+  position: relative;
+}
+
+.solid {
+  width: 35rem;
+  margin-left: 5rem;
+  position: absolute;
+}
+
+.flex {
+  display: flex;
+  gap: 2rem;
+}
+
+.h1 {
+  color: white;
+  margin-left: 8rem;
+  margin-top: 10rem;
+  font-size: 3rem;
+  color: rgba(255, 141, 160, 0.7);
+}
+
+.h2 {
+  color: white;
+  margin-left: 8rem;
+  font-size: 5rem;
+  color: rgba(255, 141, 160, 0.6);
+}
+
+.h3 {
+  color: white;
+  margin-left: 8rem;
+  font-size: 0.9rem;
+  color: rgba(255, 141, 160, 0.5);
+  width: 37rem;
+  margin-top: 0.5rem;
+  letter-spacing: 0.1rem;
+  word-spacing: 0.1rem;
+  line-height: 1.2rem;
+}
+
+.searchform {
+  margin: 4rem;
+  margin-left: 17rem;
+  font-size: 1.5rem;
+}
+
+.searchtext {
+  color: white;
+  margin-right: 2rem;
+}
+
+.searchbar {
+  width: 50rem;
+  padding: 0.7rem;
+  margin-bottom: 0;
+  border-radius: 50px;
+  text-align: center;
+  background-color: rgba(255, 141, 155, 0.2);
+  color: white;
+  border: none;
+  margin-bottom: 5rem;
+}
+
+.icon {
+  width: 2rem;
+  background-color: black;
+  color: rgba(255, 141, 155, 0.6);
+  border: none;
+  margin-top: 0.2rem;
+}
+
+.btnicon {
+  border: none;
+  background-color: black;
+}
+
+.flex2 {
+  display: flex;
+  gap: 1rem;
+}
+
+.h4 {
+  color: white;
+  margin-left: 8rem;
+  margin-top: 2rem;
+  font-size: 2rem;
+  font-weight: 200;
+  color: rgba(255, 141, 160, 0.7);
+}
+
+.card {
+  margin: 8rem;
+  color: white;
+  width: 20rem;
+  height: 25rem;
+  margin-left: 2rem;
+  margin-right: 0;
+  margin-top: 4rem;
+  padding: 1rem;
+  background-color: #0d0d0d;
+}
+
+.flex3 {
+  display: flex;
+  margin-left: 6rem;
+  gap: 1rem;
+}
+
+.cardtitle {
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 200;
+  color: rgba(255, 141, 160, 0.8);
+}
+
+.cardartist {
+  color: white;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 200;
+  color: rgba(255, 141, 160, 0.6);
+}
+
+.cardimg {
+  width: 15rem;
+  margin-left: 1rem;
+}
+
+.cardamount {
+  color: white;
+  margin-top: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 200;
+  color: rgba(255, 141, 160, 0.8);
+}
+
+.cardbtn {
+  background-color: #0d0d0d;
+  border: none;
+  cursor: pointer;
+}
+
+.coinicon {
+  width: 1.5rem;
+  color: white;
+}
